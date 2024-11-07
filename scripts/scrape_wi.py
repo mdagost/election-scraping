@@ -295,6 +295,7 @@ if __name__ == "__main__":
     })
 
     data_2024 = data_2024.rename(columns={
+        "vote_in", "vote_in_pct_2024",
         "rep_pct": "rep_pct_2024",
         "rep_votes": "rep_votes_2024",
         "dem_pct": "dem_pct_2024",
