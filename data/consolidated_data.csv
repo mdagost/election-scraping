@@ -1,4 +1,4 @@
-county,fips,rep_pct_2016,rep_votes_2016,dem_pct_2016,dem_votes_2016,rep_pct_2020,rep_votes_2020,dem_pct_2020,dem_votes_2020,vote_in,rep_pct_2024,rep_votes_2024,dem_pct_2024,dem_votes_2024
+county,fips,rep_pct_2016,rep_votes_2016,dem_pct_2016,dem_votes_2016,rep_pct_2020,rep_votes_2020,dem_pct_2020,dem_votes_2020,vote_in_pct_2024,rep_pct_2024,rep_votes_2024,dem_pct_2024,dem_votes_2024
 Adams,55001,59.2,5983,37.4,3780,62.4,7362,36.7,4329,99.0,60.4,7750,34.6,4434
 Ashland,55003,43.3,3428,52.2,4136,44.0,3841,55.0,4801,99.0,46.9,4190,51.6,4612
 Barron,55005,60.4,13595,35.0,7881,62.4,15803,36.3,9194,99.0,62.5,16744,33.4,8941
